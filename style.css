@@ -1,8 +1,9 @@
 body {
     background-image: url(images_file/beans.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
     font-family: sans-serif;
     padding: 20px;
-    margin: 40px auto;
   }
   
   h1 {
